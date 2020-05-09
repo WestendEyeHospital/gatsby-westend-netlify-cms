@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Westend Eye Hospital
-image: /img/home-jumbotron.jpg
+image: /img/westend.jpg
 heading: Westend Eye Hospital - Cochin
 subheading: Kacheripady and High Court Junction
 mainpitch:
