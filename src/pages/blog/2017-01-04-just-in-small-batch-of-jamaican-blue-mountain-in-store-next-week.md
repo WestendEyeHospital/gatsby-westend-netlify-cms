@@ -1,6 +1,6 @@
 ---
 templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
+title: 'Conjunctivitis season : Tips and tricks to prevent infection'
 date: 2017-01-04T15:04:10.000Z
 featuredpost: true
 description: >-
